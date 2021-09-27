@@ -1,0 +1,15 @@
+a = "Surat Izin Mengemudi"
+nama = "Steven"
+gol_darah = 'A'
+jenis_kelamin = "Pria"
+alamat = """Gajah Mada 19 nomor 45"""
+tinggi = 175
+pekerjaan = "Pelajar"
+
+print(a)
+print("Nama           : ",nama)
+print("Golongan Darah : ",gol_darah)
+print("Jenis Kelamin  : ",jenis_kelamin)
+print("Alamat         : ",alamat)
+print("Tinggi         : ",tinggi)
+print("Pekerjaan      : ",pekerjaan)
