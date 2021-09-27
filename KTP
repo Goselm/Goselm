@@ -1,0 +1,26 @@
+nama = "Steven"
+tempat_tanggal_lahir = "Jakarta, 28 Januari 2003"
+jenis_kelamin = 'laki-laki'
+alamat = """Jalan Panca Bakti GG.Panca Hidayah 1"""
+agama = 'Buddha'
+status_perkawinan = False
+pekerjaan = False
+kewarganegaraan = 'WNI'
+
+#cetak
+print("===========================================================")
+print("                          KTP                              ")
+print("Nama                 :",nama)
+print("Tempat&Tanggal Lahir :",tempat_tanggal_lahir)
+print("Alamat               :",alamat)
+print("Agama                :",agama)
+if(status_perkawinan) :
+    print("Status Perkawinan    : Menikah")
+else :
+    print("Status Perkawinan    : Belum Menikah")
+if(pekerjaan):
+    print("Pekerjaan            : Sudah Bekerja")
+else : 
+    print("Pekerjaan            : Belum Bekerja")
+print("Kewarganegaraan      :",kewarganegaraan)
+print("===========================================================")
