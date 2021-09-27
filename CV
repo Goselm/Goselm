@@ -1,0 +1,44 @@
+a = "Data Pribadi"
+b = "Pendidikan Formal"
+c = "Pengalaman Kerja"
+d = "Prestasi"
+nama = "Steven"
+jenis_kelamin = "Pria"
+tempat_tanggal_lahir = "Jakarta, 28 Januari 2003"
+kesehatan = True
+Kewarganegaraan = "Indonesia"
+status_perkawinan = False
+agama = 'Katolik'
+alamat = """Gajah Mada 19 No 45"""
+
+print("=================================================")
+print(a)
+print("Nama                 : ",nama)
+print("Jenis Kelamin        : ",jenis_kelamin)
+print("Tempat Tanggal&Lahir : ",tempat_tanggal_lahir)
+if(kesehatan):
+    print("Kesehatan            : Baik")
+else:
+    print("Kesehatan            : Buruk")
+print("Kewarganegaraan      : ",Kewarganegaraan)
+if(status_perkawinan):
+    print("Status Perkawinan    : Sudah Menikah")
+else:
+    print("Status Perkawinan    : Belum Menikah")
+print("Agama                : ",agama)
+print("Alamat               : ",alamat)
+print("=================================================")
+print(b)
+print("2007 - 2013 : SD Bruder Pontianak")
+print("2013 - 2016 : SMP Kristen Immanuel Pontianak")
+print("2017 - 2020 : SMA Paulus Pontianak")
+print("=================================================")
+print(c)
+print("Tidak ada")
+print("=================================================")
+print(d)
+print("1.Juara 4 Prince&Princess Pyhsic")
+print("=================================================")
+print("Demikian Ini Daftar Riwayat Hidup saya buat dengan benar sesungguhnya")
+print("Pontianak,27 Septembaer 2021")
+
